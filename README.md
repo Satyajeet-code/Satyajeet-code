@@ -34,8 +34,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Satyajeet-code&layout=compact&hide=html&theme=jolly" alt="Satyajeet-code" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h2 align="center">🐦 Github Sparklines </h2>
-<p align="center">
+
 
 
 <h2 align="center">📫 Reach out to me on</h2>
