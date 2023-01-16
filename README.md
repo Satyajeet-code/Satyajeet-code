@@ -32,7 +32,7 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Satyajeet-code&layout=compact&hide=html&theme=jolly" alt="Satyajeet-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyajeet-code&layout=compact&hide=html&theme=jolly" alt="Satyajeet-code" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
