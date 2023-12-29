@@ -5,7 +5,7 @@
 <p align="center">
 
  <samp>
-   I am a passionate data scientist currently pursuing my final year BCA at RIMS.I have worked on projects across various domains which ofc you can find here.
+   Just an ambitious MCA student from VIT who is deeply invested into data science with around 3 years of experience in the field of machine learning and AI.
 </samp> <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Satyajeet-code" alt="Satyajeet-code" /> 
